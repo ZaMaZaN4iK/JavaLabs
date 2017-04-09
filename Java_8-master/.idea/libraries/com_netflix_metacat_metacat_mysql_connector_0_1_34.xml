@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="com.netflix.metacat:metacat-mysql-connector:0.1.34" type="repository">
+    <properties maven-id="com.netflix.metacat:metacat-mysql-connector:0.1.34" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/metacat-mysql-connector-0.1.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metacat-common-server-0.1.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metacat-common-0.1.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swagger-annotations-1.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/presto-spi-0.118.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slice-0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-jdbc-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-juli-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/archaius-core-0.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servo-core-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servo-internal-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/configuration-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bval-jsr303-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bval-core-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-core-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-multibindings-4.0-beta5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/presto-mysql-0.118.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/presto-base-jdbc-0.118.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bootstrap-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log-manager-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/units-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-jdk14-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-over-slf4j-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmxutils-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/concurrent-0.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

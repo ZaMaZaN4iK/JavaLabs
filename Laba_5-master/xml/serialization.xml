@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="com.by.Zaitsev.Staff.Engineer" id="Engineer0">
+  <void class="com.by.Zaitsev.Staff.Engineer" method="getField">
+   <string>salary</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <int>460</int>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <string>Sashko</string>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>surname</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <string>Zaitsev</string>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>middleName</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <string>zamazan4ik</string>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>age</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <byte>19</byte>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>day</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <byte>1</byte>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>month</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <byte>10</byte>
+   </void>
+  </void>
+  <void class="com.by.Zaitsev.Staff.Personality.Personality" method="getField">
+   <string>year</string>
+   <void method="set">
+    <object idref="Engineer0"/>
+    <byte>97</byte>
+   </void>
+  </void>
+ </object>
+<void class="com.by.Zaitsev.Staff.Engineer" id="Field0" method="getField">
+ <string>skills</string>
+ <void id="ArrayList0" method="get">
+  <object idref="Engineer0"/>
+  <void method="add">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>com.by.Zaitsev.Staff.Personality.Skills</class>
+    <string>C_plus_plus</string>
+   </object>
+  </void>
+ </void>
+</void>
+<void idref="ArrayList0"/>
+</java>

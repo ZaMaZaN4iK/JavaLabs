@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_8-master.iml" filepath="$PROJECT_DIR$/Java_8-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/sqljdbc_2.0/enu/help/samples/samples.iml" filepath="$PROJECT_DIR$/JDBC/sqljdbc_2.0/enu/help/samples/samples.iml" />
+    </modules>
+  </component>
+</project>

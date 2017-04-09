@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='Show.xsl'?>
+
+<Engineer xmlns="http://msiter.ru"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://msiter.ru Schema.xsd">
+  <name>Sashko</name>
+  <surname>Zaitsev</surname>
+  <middleName>zamazan4ik</middleName>
+  <age>19</age>
+  <day>1</day>
+  <month>10</month>
+  <year>97</year>
+  <salary>460</salary>
+  <skills>C_plus_plus</skills>
+</Engineer>

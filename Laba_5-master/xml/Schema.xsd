@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://msiter.ru" xmlns="http://msiter.ru" elementFormDefault="qualified">	<xs:element name="Engineer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="name" type="xs:string"/>
+				<xs:element name="surname" type="xs:string"/>
+				<xs:element name="middleName" type="xs:string"/>
+				<xs:element name="age">
+					<xs:simleType>
+						<xs:restriction base = "xs:integer"> 
+							<xs:maxInclusive value="70"/> 
+							<xs:minExlclusive value="18"/> 
+						</xs:restriction>
+					</xs:simleType>
+				</xs:element>
+				<xs:element name="day" type="xs:integer"/>
+				<xs:element name="month" type="xs:integer"/>
+				<xs:element name="year" type="xs:integer"/>
+				<xs:element name="salary" type="xs:integer"/>
+				<xs:element name="skills">
+					<xs:simleType>
+						<xs:restriction base = "xs:string">
+							<xs:enumeration value="English"/>
+							<xs:enumeration value="C_plus_plus"/>
+						</xs:restriction>
+					</xs:simleType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema> 

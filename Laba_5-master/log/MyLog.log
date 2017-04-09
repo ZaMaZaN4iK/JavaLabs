@@ -1,0 +1,45 @@
+09.04.2017 21:10:08 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:10:08 [main] INFO  com.by.Raltsevich.Main.Main  - Value out of range. Value:"1997" Radix:10
+09.04.2017 21:10:08 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:21:09 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:21:09 [main] INFO  com.by.Raltsevich.Main.Main  - Value out of range. Value:"1997" Radix:10
+09.04.2017 21:21:09 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:21:25 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:21:25 [main] INFO  com.by.Raltsevich.Main.Main  - Value out of range. Value:"1997" Radix:10
+09.04.2017 21:21:25 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:21:53 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:22:38 [main] INFO  com.by.Raltsevich.Main.Main  - Value out of range. Value:"1997" Radix:10
+09.04.2017 21:22:38 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:24:26 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:24:31 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:24:31 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:24:31 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:27:03 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:27:03 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:27:03 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:31:47 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:31:48 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:31:48 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:33:08 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:33:08 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:33:08 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:34:25 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:34:25 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:34:25 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:35:04 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:35:04 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 138
+09.04.2017 21:35:04 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:42:16 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:42:16 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:43:30 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:43:30 [main] INFO  com.by.Raltsevich.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 140
+09.04.2017 21:43:30 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:43:42 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:43:42 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:44:36 [main] INFO  com.by.Raltsevich.Main.Main  - ----->Start program
+09.04.2017 21:44:36 [main] INFO  com.by.Raltsevich.Main.Main  - ----->End program
+09.04.2017 21:45:39 [main] INFO  com.by.Zaitsev.Main.Main  - ----->Start program
+09.04.2017 21:45:39 [main] INFO  com.by.Zaitsev.Main.Main  - ----->End program
+09.04.2017 21:59:37 [main] INFO  com.by.Zaitsev.Main.Main  - ----->Start program
+09.04.2017 21:59:38 [main] INFO  com.by.Zaitsev.Main.Main  - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 140
+09.04.2017 21:59:38 [main] INFO  com.by.Zaitsev.Main.Main  - ----->End program
